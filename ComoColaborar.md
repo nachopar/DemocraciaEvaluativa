@@ -2,26 +2,29 @@
 
 <h2>Formas de colaborar.</h2><br>
 Cualquier persona puede colaborar en el proyecto de distintas maneras, entre ellas, promover la participación de otros en el proyecto, organizar grupos de trabajo en sus localidades o en sus universidades, traducir los textos a otros idiomas, corregir el estilo o la forma del texto, o participando en la elaboración material del mismo. 
-<br><br>Más adelante detallaremos el proceso de cambios en el contenido del proyecto, pero en esta Sección queremos insistir en que hay otras muchas maneras en que puedes colaborar.<br>
-. 1-Ayudar a traducir los textos (esto es especialmente útil para conocer el proyecto en su totalidad.<br>
-. 2-Promocionar el proyecto en tu círculo de amigos, conocidos y familiares, especialmente a las personas que les pueda interesar.<br>
-. 3-Compartir el contenido generado por la comunidad en tus Redes Sociales.<br>
-. 4-Organizar comunidades de colaboración en tu ciudad.<br>
-. 5-Donando al proyecto para que se puedan mantener los mínimos gastos que tenemos.<br>
-. 6-Si eres un político, adoptando este proyecto como parte de tu programa electoral (e implementarlo si llegas al poder)<br>
-. 7-Respondiendo a las encuestas que enviemos, y dándonos mucha retroalimentación.
+<br><br>Más adelante detallaremos el proceso de cambios en el contenido del proyecto, pero en esta Sección queremos insistir en que hay otras muchas maneras en que puedes colaborar.<ol>
+<li>Ayudar a traducir los textos (esto es especialmente útil para conocer el proyecto en su totalidad.
+</li><li>Promocionar el proyecto en tu círculo de amigos, conocidos y familiares, especialmente a las personas que les pueda </li><li>Compartir el contenido generado por la comunidad en tus Redes Sociales.
+</li><li>Organizar comunidades de colaboración en tu ciudad.
+</li><li>Donando al proyecto para que se puedan mantener los mínimos gastos que tenemos.
+</li><li>Si eres un político, adoptando este proyecto como parte de tu programa electoral (e implementarlo si llegas al poder)
+</li><li>Respondiendo a las encuestas que enviemos, y dándonos mucha retroalimentación.
+</li>
+ </ol>
+
 <br> 
  
 <h2>Cómo colaborar</h2>
-Este documento es un proyecto abierto, por lo que son bienvenidas todas las aportaciones, siempre que sean hechas de buena fe, y respeten los siguientes  lineamientos:<br>
-<br>
-. 1-Que no entren en contradicción con los Principios del Fundamentales del proyecto.<br>
-. 2-Que no entren en conflicto con los principios generales de Derecho o la Declaración universal de Derechos Humanos.<br>
-. 3-Que se realicen en forma, de acuerdo a la metodología aquí detallada.<br>
-. 4-Que sean relevantes de acuerdo a los objetivos del Proyecto<br>
-. 5-Que no pretendan imponer los intereses o ideologías de grupos concretos, fuera de los Principios del Fundamentales<br>
-. 6-Que se realicen desde el respeto a las opiniones ajenas, no será tolerado ningún tipo de expresión ofensiva, humillante, o discriminatoria.<br>
-. 7-Que sean de aplicabilidad general, es decir, que sean relevantes cualquier país (cualquier país con un sistema político estructurado, por tanto países en guerra, “Estados fallidos”, o países en medio de emergencias humanitarios quedan fuera de este límite)<br>
+Este documento es un proyecto abierto, por lo que son bienvenidas todas las aportaciones, siempre que sean hechas de buena fe, y respeten los siguientes  lineamientos:<ol>
+<li>Que no entren en contradicción con los Principios del Fundamentales del proyecto.
+</li><li>Que no entren en conflicto con los principios generales de Derecho o la Declaración universal de Derechos Humanos.</li><li>
+Que se realicen en forma, de acuerdo a la metodología aquí detallada.</li><li>
+Que sean relevantes de acuerdo a los objetivos del Proyecto</li><li>
+Que no pretendan imponer los intereses o ideologías de grupos concretos, fuera de los Principios del Fundamentales</li><li>
+Que se realicen desde el respeto a las opiniones ajenas, no será tolerado ningún tipo de expresión ofensiva, humillante, o discriminatoria.</li><li>
+Que sean de aplicabilidad general, es decir, que sean relevantes cualquier país (cualquier país con un sistema político estructurado, por tanto países en guerra, “Estados fallidos”, o países en medio de emergencias humanitarios quedan fuera de este límite)</li>
+ </ol>
+ <br>
 
 
 <h2>Cómo hacer propuestas y cambios</h2>
@@ -38,12 +41,17 @@ Los Issues etiquetados como “cuestiones de contenido” permanecerán abiertos
 <br><br>
 Los Issues son el espacio donde se debe llegar a acuerdos y resolver las diferencias, por tanto cualquier comentario que no sea relevante al tema discutido, o que contenga expresiones hostiles o que inciten al odio serán eliminados por los administradores.
 <br><br>
-El resultado de los Issues puede ser tres distintos:<br>
-. 1-Ignorada, tras una semana de inactividad.<br>
-. 2-Aceptada, si se producen más reacciones positivas que negativas.<br>
-. 3-Rechazada, si se producen más reacciones negativas que positivas, y no hay una propuesta de modificación.<br>
-. 4-Modificada, si se agrega un comentario con el Título “Modificación”, y esta modificación obtiene más reacciones positivas que negativas, y el número de reacciones positivas es mayor que el del comentario original.<br>
-<br><br>
+El resultado de los Issues puede ser tres distintos:<ol>
+<li>Ignorada, tras una semana de inactividad.
+</li>
+<li>
+Aceptada, si se producen más reacciones positivas que negativas.<br>
+</li>
+<li>
+Rechazada, si se producen más reacciones negativas que positivas, y no hay una propuesta de modificación.<br>
+</li>
+<li>Modificada, si se agrega un comentario con el Título “Modificación”, y esta modificación obtiene más reacciones positivas que negativas, y el número de reacciones positivas es mayor que el del comentario original.<br>
+</li></ol>
 En el caso de que un Issue sea aprobado o modificado, se pasará a fase de “pull request”, si en la fase de Issue lo que se discute es el “qué”, en la fase de Pull request lo que se discutirá es el “cómo”. Es decir, en la fase de Pull request es donde se debe acordar la redacción exacta del texto, y donde se debe hacer un análisis más estricto para comprobar que mantenga la coherencia con el resto del proyecto.
 <br>
 <h3>Pull Request</h3>
@@ -64,24 +72,28 @@ Los administradores del proyecto son, en un principio, los creadores de este mis
 <br><br>
 La elección de nuevos administradores se hará en las asambleas, y deberán obtener más de la mitad de los votos.
 <br><br>
-Las tareas de los administradores son:<br>
-. 1-Moderar los debates y cortar inmediatamente cualquier comportamiento no ejemplar.<br>
-. 2-Aceptar los Pull request<br>
-. 3-Coordinar la organización de las asambleas.<br>
-. 4-Bloquear o excluir a usuarios que demuestren un comportamiento fraudulento, o que vulneren de manera reiterada las normas de la comunidad.<br>
-
+Las tareas de los administradores son:<ol><li>
+Moderar los debates y cortar inmediatamente cualquier comportamiento no ejemplar.
+</li>
+<li>Aceptar los Pull request
+</li>
+<li>Coordinar la organización de las asambleas.
+</li>
+<li>Bloquear o excluir a usuarios que demuestren un comportamiento fraudulento, o que vulneren de manera reiterada las normas de la comunidad.
+</li>
+</ol>
 <br>
 <h3>Las asambleas</h3>
 
 Las asambleas se realizarán como máximo una vez al año. La convocatoria y la organización de las asambleas corresponden  a los administradores.
 <br>
 <br>
-Las asambleas tienen tres objetivos:<br>
-. 1-Elegir o revocar a los administradores de la plataforma<br>
-. 2-Determinar operaciones extraordinarias y/o nuevos proyectos.<br>
-. 3-Modificar la metodología de colaboración en cuestiones de fondo.<br>
-. 4-Aprobar los presupuestos del proyecto en caso de que haya recursos.<br>
-<br><br>
+Las asambleas tienen tres objetivos:<ol>
+<li>Elegir o revocar a los administradores de la plataforma
+</li><li>Determinar operaciones extraordinarias y/o nuevos proyectos.
+</li><li>Modificar la metodología de colaboración en cuestiones de fondo.
+</li><li>Aprobar los presupuestos del proyecto en caso de que haya recursos.
+</li></ol><br>
 La participación en asambleas es abierta a cualquier persona que desee participar, sin embargo, las personas que deseen participar deberán demostrar que no son bots por un medio verificable.
 <br><br>
 Todas las decisiones deberán tomarse por más votos positivos que negativos, salvo la de los administradores, que deben ser elegidos por mayoría absoluta,
