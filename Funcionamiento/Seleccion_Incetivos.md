@@ -8,12 +8,14 @@ De este modo garantizamos que las personas que se postulen para cargos de la adm
 <h2>Selección</h2>
 La selección de cargos de administración se hará conforme a un sistema de puntos. Todas las posiciones de la administración tendrán un periodo limitado, después del cual se abrirá el proceso de elección de la persona que ocupará dicho puesto.
 <br><br>
-El proceso de elección de cargos se llevará a cabo conforme los siguientes pasos:
- 1-Se anuncia el proceso de selección
- 2-Se establece los requisitos previos en cuanto a formación o experiencia en los casos en que sea necesario.
- 3-Se presentan los candidatos.
- 4-El puesto lo ocupa la persona que, aparte de cumplir con los requisitos previos, tenga el puntaje más alto en las Evaluaciones de Desempeño.
-<br><br>
+El proceso de elección de cargos se llevará a cabo conforme los siguientes pasos:<ol><li>
+Se anuncia el proceso de selección
+</li><li>Se establece los requisitos previos en cuanto a formación o experiencia en los casos en que sea necesario.
+</li><li>Se presentan los candidatos.
+</li><li>El puesto lo ocupa la persona que, aparte de cumplir con los requisitos previos, tenga el puntaje más alto en las Evaluaciones de Desempeño.
+ </li>
+ </ol>
+<br>
 De este modo, los puestos más solicitados serán ocupados por las personas con más experiencia demostrada, y que además han tenido un desempeño mejor que los demás candidatos.
 <br><br>
 Los cargos que, a lo largo de varios periodos, hayan tenido Desempeños al primer cuartil de los resultados generales, ya no podrá volver a presentarse a otros puestos y tendrá que abandonar el servicio público.
